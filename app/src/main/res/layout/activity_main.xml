@@ -130,7 +130,8 @@
         android:background="#482bef32"
         android:text="@string/buttonClearText"
         app:layout_heightPercent="16%"
-        app:layout_widthPercent="20%" />
+        app:layout_widthPercent="20%"
+        android:onClick="clearDisplay" />
 
     <Button
         android:id="@+id/buttonZero"
@@ -154,7 +155,8 @@
         android:background="#482bef32"
         android:text="@string/buttonEqualsText"
         app:layout_heightPercent="16%"
-        app:layout_widthPercent="20%" />
+        app:layout_widthPercent="20%"
+        android:onClick="calculate" />
 
     <Button
         android:id="@+id/buttonDivide"

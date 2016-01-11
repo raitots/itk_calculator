@@ -12,9 +12,9 @@
     <string name="buttonSixText">6</string>
     <string name="buttonClearText">CLR</string>
     <string name="buttonEqualsText">=</string>
-    <string name="buttonDivideText">8</string>
-    <string name="buttonMultiplyText">8</string>
-    <string name="buttonSubtractText">8</string>
-    <string name="buttonAddText">8</string>
+    <string name="buttonDivideText">/</string>
+    <string name="buttonMultiplyText">*</string>
+    <string name="buttonSubtractText">-</string>
+    <string name="buttonAddText">+</string>
     <string name="textViewDisplayText">0</string>
 </resources>
